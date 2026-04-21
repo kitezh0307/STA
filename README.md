@@ -1,4 +1,4 @@
-# STA: The Official Implementation
+# The Official Implementation of STA
 
 ## 1. Download the Dataset
 
