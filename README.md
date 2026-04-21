@@ -14,7 +14,7 @@ Place them under the same folder, and set `root_dataset_dir` in `parse_args` of 
 
 Download [THUDM/chatglm3-6b](https://huggingface.co/THUDM/chatglm3-6b) and set `pretrain_LM` in `parse_args` of `run.py` to the LLM path.
 
-> If download is too slow, try [Modelscope](https://modelscope.cn/) or HF-mirrors.
+> If download is too slow, try [Modelscope](https://modelscope.cn/) or HF-mirrors(https://hf-mirror.com/).
 
 ## 3. Acknowledgment
 
